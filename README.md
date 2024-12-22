@@ -1,5 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Dani <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30"/>
 
+I am an Undergraduate Information System student at Nusa Putra University
+
+- 🔭 I’m currently working on my data analyst portfolio
+- 🌱 I’m currently learning about data analyst scope 
+- 👯 I’m looking to collaborate on my internship program
+- 📫 How to reach me: cpaigiszero@gmail.com
+
+<br/>
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SweetzDreamz&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetzDreamz&layout=compact&theme=tokyonight)
 <!--
 **SweetzDreamz/SweetzDreamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
