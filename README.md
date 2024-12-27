@@ -9,8 +9,12 @@ I am an Undergraduate Information System student at Nusa Putra University
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SweetzDreamz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetzDreamz&layout=compact&theme=tokyonight)
+<p align="left">
+<a href="https://github.com/SweetzDreamz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SweetzDreamz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SweetzDreamz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
 <br/>
