@@ -10,8 +10,7 @@ I am an Undergraduate Information System student at Nusa Putra University
 <br/>
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SweetzDreamz&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SweetzDreamz&layout=compact&theme=tokyonight)
+
 <br/>
 <!--
 **SweetzDreamz/SweetzDreamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
